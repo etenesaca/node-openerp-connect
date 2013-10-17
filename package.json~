@@ -1,0 +1,32 @@
+{
+  "name": "openerp-connect",
+  "version": "0.1.0",
+  "description": "Node.js package that implements a complete connection to the core of OpenERP",
+  "homepage": "http://github.com/edgartenesaca/nodejs-openerp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edgartenesaca/node-openerp-connect.git"
+  },
+  "main": "./lib/client.js",
+  "dependencies": {
+    "xmlrpc": "1.1.x",
+    "colors": "0.6.x",
+    "hupernikao" : "0.1.x"
+  },
+  "author": {
+    "name": "Edgar Tenesaca",
+    "email": "edgartenesaca@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "Edgar Tenesaca",
+      "email": "edgartenesaca@gmail.com"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/edgartenesaca/node-openerp-connect/issues"
+  },
+  "_id": "openerp-connect@0.1.0",
+  "_from": "openerp-connect@"
+}
